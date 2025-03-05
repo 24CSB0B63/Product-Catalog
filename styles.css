@@ -6,7 +6,10 @@
 
 body {
     font-family: Arial, sans-serif;
-    background: url("https://th.bing.com/th/id/OIP.iYRhbqsC8waGDw1chYGPvAHaEK?rs=1&pid=ImgDetMain");
+    background: url("https://images.hdqwalls.com/wallpapers/waterfall-rocks-4k-ch.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
     padding: 20px;
 }
 
